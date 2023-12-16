@@ -1,0 +1,32 @@
+button {
+    border-color: transparent ;
+
+}
+
+.searchbar{
+    border-color: transparent;
+    padding: 0.2rem;
+    padding-left: 15px;
+    width: 25rem;
+}
+
+.first{
+    height: 50vh;
+}
+
+.init{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.simg{
+    padding: 35px;
+}
+
+.content{
+    background-color: rgb(255, 255, 255);
+    
+    justify-content: space-evenly;
+}
